@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265372483289",
+    "project_id": "lyrica-feafd",
+    "storage_bucket": "lyrica-feafd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265372483289:android:245568677b0244cfcd08c8",
+        "android_client_info": {
+          "package_name": "com.example.lyrica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIYwbRFD1lzK06RfeDM6xKAR_HTlfCq6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
